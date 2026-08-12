@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá eu me chamo Pedro Henrique Szameitat Teixeira 
+Estudante e entusiasta de tecnologia, atualmente aprendendo e desenvolvendo minhas habilidades em programação.
 
-<!--
-**pedroteixeira2026/pedroteixeira2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim:
+Tenho conhecimentos básicos em Python
+Conhecimentos básicos em Banco de Dados / SQL
+Estou aprendendo e praticando desenvolvimento de software
+Sempre buscando aprender coisas novas e melhorar minhas habilidades
+Gosto de aprender na prática, criando projetos e experimentando diferentes tecnologias
 
-Here are some ideas to get you started:
+Tecnologias que estou estudando
+Meu nível atual é iniciante. Estou construindo minha base de conhecimento e evoluindo através de estudos e projetos pessoas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigado por visitar o meu perfil.
